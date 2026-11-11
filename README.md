@@ -17,8 +17,6 @@ users.php)
 -functions.php)
 
                                 3-css for this files
-(<img width="1359" height="706" alt="image" src="https://github.com/user-attachments/assets/4a2a542d-fac2-4fae-96c2-af7ab4749fff" />
-
 -enhanced-style.css
 -settings.php
 )
@@ -27,3 +25,7 @@ users.php)
 -enhanced-main.js
 -main.js
 )        
+
+
+(<img width="1359" height="706" alt="image" src="https://github.com/user-attachments/assets/4a2a542d-fac2-4fae-96c2-af7ab4749fff" />
+
