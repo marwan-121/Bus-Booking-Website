@@ -1,7 +1,7 @@
 <?php
-require_once 'config/functions.php';
+require_once '../config/functions.php';
 
-// تسجيل الخروج
-logout();
+// تسجيل خروج المسؤول
+adminLogout();
 ?>
 
